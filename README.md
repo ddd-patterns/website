@@ -16,5 +16,10 @@ make html
 open build/html/index.html
 ```
 
+If something doesn't render as expected:
+```bash
+make clean
+```
+
 The site generated locally is a basic one, but the one generated on read the docs also generates pdf, epub etc and includes a link to editing the page on github. A dummy example here: https://ddd-patterns-www.readthedocs.io/
 

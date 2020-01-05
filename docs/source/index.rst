@@ -1,15 +1,8 @@
 Welcome to Domain-Driven Design Patterns!
-=========================================================
+=========================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 3
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   building-blocks/index.rst
+   process-patterns/index.rst
