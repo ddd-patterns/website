@@ -23,3 +23,6 @@ make clean
 
 The site generated locally is a basic one, but the one generated on read the docs also generates pdf, epub etc and includes a link to editing the page on github. A dummy example here: https://ddd-patterns-www.readthedocs.io/
 
+RST markup language (an examples):
+* https://en.wikipedia.org/wiki/ReStructuredText
+* https://sphinx-rtd-theme.readthedocs.io/en/stable/index.html
